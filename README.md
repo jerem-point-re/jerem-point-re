@@ -50,3 +50,16 @@
 <br>
 <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a></p>
+
+---
+
+<h3 align="left">Support me (as much as you can ❤️✨)</h3>
+<p>
+<a href='https://www.buymeacoffee.com/jerem.re' target='_blank' title='Buy me a coffee, pleeeaase :)'><img alt='Buy me a coffee, pleeeaase :)' src='https://img.shields.io/badge/-jerem.re-FEDD03?style=round-square&logo=buymeacoffee&logoColor=white'></a>&nbsp;&nbsp;&nbsp;<a href='https://github.com/jerem-point-re/jerem-point-re/commits/main/' target='_blank' title='PayPal Me'><img alt='PayPal Me' src='https://img.shields.io/badge/-jeremspy-0070DF?style=round-square&logo=PayPal'></a>
+  <br>
+  Thank you! ✨❤️
+</p>
+
+---
+
+<a href='https://github.com/jerem-point-re/jerem-point-re/commits/main/' target='_blank' title='Commits'><img src='https://img.shields.io/github/last-commit/jerem-point-re/jerem-point-re?color=blue&style=round' alt='GitHub last commit'></a>&nbsp;&nbsp;&nbsp;<img alt='GitHub contributors' src='https://img.shields.io/github/contributors/jerem-point-re/jerem-point-re?color=blue&style=round'>&nbsp;&nbsp;&nbsp;<img alt='GitHub watchers' src='https://img.shields.io/github/watchers/jerem-point-re/jerem-point-re?style=round'>&nbsp;&nbsp;&nbsp;<img alt='GitHub Repo stars' src='https://img.shields.io/github/stars/jerem-point-re/jerem-point-re?style=round'>&nbsp;&nbsp;&nbsp;<img alt='GitHub forks' src='https://img.shields.io/github/forks/jerem-point-re/jerem-point-re?style=round'>&nbsp;&nbsp;&nbsp;<img alt='GitHub' src='https://img.shields.io/github/license/jerem-point-re/jerem-point-re?color=blue&style=round'>
