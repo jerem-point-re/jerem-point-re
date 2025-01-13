@@ -26,3 +26,16 @@
 - 📄 Know about my experiences [https://cv.jerem.re/](https://cv.jerem.re/)
 
 - ⚡ Fun fact **I fink am fonny 🤪**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:dev@jerem.re" target="blank"><img align="center" src="https://www.jerem.re/sharedAssets/ico/fav.png" alt="jerem.point.re" height="30" width="30" /></a>
+<a href="mailto:jerem.point.re@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="jerem.point.re" height="30" width="40" /></a>
+<a href="https://codepen.io/jerem-point-re" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jerem-point-re" height="30" width="40" /></a>
+<a href="https://dev.to/jerempointre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jerempointre" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeremre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremre" height="30" width="40" /></a>
+<a href="https://instagram.com/jrmftn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jrmftn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/jerem_point_re" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jerem_point_re" height="30" width="40" /></a>
+</p>
