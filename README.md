@@ -4,6 +4,9 @@
 
 ##### Founder of [jerem.re](https://www.jerem.re/)
 
+<p dir='auto'><img src='https://raw.githubusercontent.com/jerem-point-re/github-stats-transparent/output/generated/overview.svg' alt='My GitHub statistics' style='max-width: 100%;'>
+<img src='https://raw.githubusercontent.com/jerem-point-re/github-stats-transparent/output/generated/languages.svg' alt='Most used languages' style='max-width: 100%;'></p>
+
 ---
 
 - 🔭 I’m currently working on [jerem-point-re (readme.md)](https://github.com/jerem-point-re/jerem-point-re/)
