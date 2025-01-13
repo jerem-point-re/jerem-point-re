@@ -1,6 +1,10 @@
+[![Jerem's GitHub Banner](./assets/headerGitHub.png)](https://www.jerem.re)
+
 <h1 align='center'>Hello there, I'm Jerem 👋</h1>
 
 ##### Founder of [jerem.re](https://www.jerem.re/)
+
+---
 
 - 🔭 I’m currently working on [jerem-point-re (readme.md)](https://github.com/jerem-point-re/jerem-point-re/)
 
