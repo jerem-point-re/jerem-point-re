@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:dev@jerem.re" target="blank"><img align="center" src="https://www.jerem.re/sharedAssets/ico/fav.png" alt="jerem.point.re" height="30" width="30" /></a>
+<a href="mailto:dev@jerem.re" target="blank"><img align="center" src="https://www.jerem.re/_sharedAssets/images/fav/fav_dark.png" alt="jerem.point.re" height="30" width="30" /></a>
 <a href="mailto:jerem.point.re@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="jerem.point.re" height="30" width="40" /></a>
 <a href="https://codepen.io/jerem-point-re" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jerem-point-re" height="30" width="40" /></a>
 <a href="https://dev.to/jerempointre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jerempointre" height="30" width="40" /></a>
